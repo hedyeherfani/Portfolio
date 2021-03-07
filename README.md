@@ -10,13 +10,9 @@ Project2.docx is going to contain a walkthrough of how I analyzed customer spend
 
 Project3.docx is going to contain a walkthrough of impact of COVID on race.
 
-# Ipynb files
+# Folders
 
-Power Plant Output (Part I).ipynb = Project 1, part 1 code
-
-Power Plant Output (Part II).ipynb = Project 1, part 2 code
-
-Power Plant Output (Part III).ipynb = Project 1, part 3 code 
+Project_1 will contain code and data for Project1.docx
 
 Project2.ipynb will contain the code behind Project2.docx
 
