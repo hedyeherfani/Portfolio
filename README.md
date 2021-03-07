@@ -10,10 +10,10 @@ Project2.docx is going to contain a walkthrough of how I analyzed customer spend
 
 Project3.docx is going to contain a walkthrough of impact of COVID on race.
 
-# Folders
+# Code
 
 Project_1 will contain code and data for Project1.docx
 
 Project2.ipynb will contain the code behind Project2.docx
 
-Project3.ipynb will contain the code behing Project3.docx
+CovidProject.ipynb will contain the code behing Project3.docx
