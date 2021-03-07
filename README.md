@@ -1,6 +1,6 @@
 # Portfolio
 
-This portfolio page is where I'm going to be displaying projects that interest me as I take a deep dive through analyzing pertinent information. 
+This portfolio page is where I'm going to be displaying projects that interest me as I take a deep dive through analysis. 
 
 # Docx files
 
